@@ -48,7 +48,7 @@ P1_LedBlink/
 ├── blinkBCM.py
 ├── blinkPIN.py
 ├── README.md
-└── images/
+└── imagenes/
     ├── BCMterminal.jpeg
     ├── PINterminal.jpeg
     ├── nanoBCM.jpeg
@@ -124,7 +124,7 @@ Para detener cualquiera de los dos programas basta con presionar `Ctrl + C`.
 
 Salida en terminal con el LED alternando entre encendido y apagado:
 
-![Terminal BCM](images/BCMterminal.jpeg)
+![Terminal BCM](imagenes/BCMterminal.jpeg)
 
 Al interrumpir con `Ctrl + C` aparece el mensaje `GPIO limpiado. Programa finalizado.`
 
@@ -132,21 +132,21 @@ Al interrumpir con `Ctrl + C` aparece el mensaje `GPIO limpiado. Programa finali
 
 Salida en terminal con el avance de los ciclos:
 
-![Terminal BOARD](images/PINterminal.jpeg)
+![Terminal BOARD](imagenes/PINterminal.jpeg)
 
 Al interrumpir con `Ctrl + C` aparece el mensaje `Sistema apagado correctamente`.
 
 ### Circuito armado
 
-![Circuito BCM](images/nanoBCM.jpeg)
+![Circuito BCM](imagenes/nanoBCM.jpeg)
 
-![Circuito BOARD](images/nanoPIN.jpeg)
+![Circuito BOARD](imagenes/nanoPIN.jpeg)
 
 ### LED funcionando
 
-![LED encendido 1](images/1.jpeg)
+![LED encendido 1](imagenes/1.jpeg)
 
-![LED encendido 2](images/2.jpeg)
+![LED encendido 2](imagenes/2.jpeg)
 
 ---
 
